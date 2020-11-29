@@ -2,7 +2,7 @@ package com.javaex.exex01;
 
 import java.util.Scanner;
 
-public class ExexApp01 {
+public class Exex01App {
 
 	public static void main(String[] args) {
 		// Practice05 7번문제
@@ -33,8 +33,7 @@ public class ExexApp01 {
 			frArray[i].showInfo();
 		}
 		
-		
-		
+			
 		
 		sc.close();
 		

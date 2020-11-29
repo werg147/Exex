@@ -47,5 +47,4 @@ public class Exex01 {
 		return "Exex01 [name=" + name + ", hp=" + hp + ", school=" + school + "]";
 	}
 	
-	
 }
